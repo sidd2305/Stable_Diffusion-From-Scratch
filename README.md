@@ -1,7 +1,7 @@
 # Stable Diffusion From Scratch
 
 ## Introduction
-This repository provides a step-by-step guide on how to build a Stable Diffusion model from scratch using PyTorch. Stable Diffusion is a powerful text-to-image generation model that can create realistic images based on textual descriptions. By building the model from scratch, you'll gain a deeper understanding of the underlying architecture and training process.
+This repository provides a step-by-step guide on how to build a Stable Diffusion model from scratch using PyTorch. Stable Diffusion is a powerful text-to-image generation model that can create realistic images based on textual descriptions. By building the model from scratch, it allows for a deeper understanding of the underlying architecture and training process.
 
 ## Prerequisites
 - Python 3.7 or higher
